@@ -13,19 +13,33 @@
 ![image](![IMG_6752](https://github.com/bb1212b/202204171/assets/83689942/66e4dff7-c7d7-4ca3-9e81-b5521d80d1cc))
 
 + 각 폴더에 대한 설명
+
 note : 각 주차의 필기
+
 sample : 강의 자료
 
 + syllabus
+
+
 |주차|필기 파일 링크
 |-----|---|
+
 |2주차|[2주차 필기](https://replit.com/@qowndnjs124/202204171#jw%20note/2%EC%A3%BC%EC%B0%A8.md)
+
 |3주차|[3주차 필기](https://replit.com/@qowndnjs124/202204171#jw%20note/3%EC%A3%BC%EC%B0%A8.md)
+
 |4주차|[4주차 필기](https://replit.com/@qowndnjs124/202204171#jw%20note/4%EC%A3%BC%EC%B0%A8.md)
+
 |5주차|[5주차 필기](https://replit.com/@qowndnjs124/202204171#jw%20note/5%EC%A3%BC%EC%B0%A8.md)
+
 |6주차|[6주차 필기](https://replit.com/@qowndnjs124/202204171#jw%20note/6%EC%A3%BC%EC%B0%A8.md)
+
 |7주차|[7주차 필기](https://replit.com/@qowndnjs124/202204171#jw%20note/7%EC%A3%BC%EC%B0%A8.md)
+
 |9주차|[9주차 필기](https://replit.com/@qowndnjs124/202204171#jw%20note/9%EC%A3%BC%EC%B0%A8.md)
+
 |11주차|[11주차 필기](https://replit.com/@qowndnjs124/202204171#jw%20note/11%EC%A3%BC%EC%B0%A8.md)
+
 |12주차|[12주차 필기](https://replit.com/@qowndnjs124/202204171#jw%20note/12%EC%A3%BC%EC%B0%A8.md)
+
 
