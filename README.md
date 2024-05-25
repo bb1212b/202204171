@@ -10,4 +10,5 @@
 
 
 + 이미지
-![image](
+![image]![IMG_6752](https://github.com/bb1212b/202204171/assets/83689942/66e4dff7-c7d7-4ca3-9e81-b5521d80d1cc)
+
